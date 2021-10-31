@@ -18,3 +18,11 @@
     ```
     - そうする事で browser 上で 添付した Repository 環境で Gitpod を使用できる
 
+### 2. 実行 file 作成
+
+    # 実行file作成 : compile
+    gcc -o <実行file名> file名.c
+
+    # 実行
+    ./<実行file名>
+- working dirctory で compile & 実行
