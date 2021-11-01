@@ -26,3 +26,16 @@
     # 実行
     ./<実行file名>
 - working dirctory で compile & 実行
+
+### 3. code format : .clang-format 作成
+
+    # terminal で実行 : file作成
+    clang-format -style=llvm -dump-config > .clang-format
+
+    # clang-format : 変更
+    IndentWidth: 4
+- 拡張機能 : [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) install
+- [Clang-Format Style](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+
+### 4. debug 拡張追加
+- 拡張機能 : [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) install
