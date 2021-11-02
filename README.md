@@ -8,7 +8,6 @@
 3. C言語
    - basice
    - algorithm
-
 4. C++
    - STL 「コンテナ型」
      - vector, array, deque, list, set, map...
