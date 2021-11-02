@@ -1,12 +1,17 @@
-# C言語　Webots sumilation
+# C/C++ 言語 (Gitpod)
 1. 環境構築 | Web IDEである　[Gitpod](https://www.gitpod.io/docs/getting-started)　の導入
 
-2. C言語 を使用して webots sumilation
+2. Gitpod 導入
+   - 環境構築を簡略化
+   - Mac でもC, C++ 環境を整えられるかどうか
 
-3. Webots 導入
+3. C言語
+   - basice
+   - algorithm
 
-4. Webots による Robots sumilation
-
+4. C++
+   - STL 「コンテナ型」
+     - vector, array, deque, list, set, map...
 ## Gitpod
 > https://www.gitpod.io/docs/getting-started
 ### 1. Repository に添付 -> Enter
@@ -18,7 +23,7 @@
     ```
     - そうする事で browser 上で 添付した Repository 環境で Gitpod を使用できる
 
-### 2. 実行 file 作成
+### 2. C言語の実行 file 作成
 
     # 実行file作成 : compile
     gcc -o <実行file名> file名.c
