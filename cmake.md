@@ -1,6 +1,6 @@
 # cmake compile
 - cMake の biuld の仕方 : [CMake の使い方](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
-
+- [CMake vs code](https://jumble-note.blogspot.com/2021/02/c-cvisual-studio-code.html)
 ### 1. src dir と同じ所に CMakeLists.txt
     # CMakeのバージョンを設定
     cmake_minimum_required(VERSION 3.15)

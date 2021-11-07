@@ -6,11 +6,10 @@
    - os に依存しない C, C++ 環境を整えられるかどうか
 
 3. C言語
-   - basice
+   - basic
    - algorithm
 4. C++
-   - STL 「コンテナ型」
-     - vector, array, deque, list, set, map...
+   - basic
 
    - CMake を使用して biuld
      - [CMake の使い方](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
