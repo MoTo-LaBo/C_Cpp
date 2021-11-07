@@ -1,0 +1,3 @@
+/Users/moto/udemy/C_C++_gitpod/c++/build/CMakeFiles/rebuild_cache.dir
+/Users/moto/udemy/C_C++_gitpod/c++/build/CMakeFiles/edit_cache.dir
+/Users/moto/udemy/C_C++_gitpod/c++/build/CMakeFiles/myproject.dir

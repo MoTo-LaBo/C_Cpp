@@ -6,4 +6,4 @@ cmake_minimum_required(VERSION 3.15)
 project(myproject CXX)
 
 # test という実行ファイルを main.cppから作成
-add_executable(myproject src/main.cpp src/test.cpp)
+add_executable(myproject src/main.cpp)
