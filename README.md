@@ -3,7 +3,7 @@
 
 2. Gitpod 導入
    - 環境構築を簡略化
-   - Mac でもC, C++ 環境を整えられるかどうか
+   - os に依存しない C, C++ 環境を整えられるかどうか
 
 3. C言語
    - basice
@@ -14,6 +14,7 @@
 
    - CMake を使用して biuld
      - [CMake の使い方](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
+     - [CMake document](https://cmake.org/cmake/help/v3.22/guide/tutorial/A%20Basic%20Starting%20Point.html)
      - document.md 参照
 
 ## Gitpod

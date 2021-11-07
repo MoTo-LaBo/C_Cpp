@@ -11,7 +11,7 @@
     # hello という実行ファイルを main.cpppから作成
     add_executable(hello src/main.cpp)
 
-### 2. src dir と同じ所に build dir 作成
+### 2. src dir と同じ所に build dir 作成
     # 1. 移動 -> cmake
     cd build
     cmake ..
